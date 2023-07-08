@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.30)  3 JUL 2023 19:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.30)  8 JUL 2023 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -166,43 +166,96 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
 )
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+)
+\XKV@depth=\count273
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box53
+)
+\tc@llx=\dimen153
+\tc@lly=\dimen154
+\tc@urx=\dimen155
+\tc@ury=\dimen156
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen157
+\adjbox@Height=\dimen158
+\adjbox@Depth=\dimen159
+\adjbox@Totalheight=\dimen160
+\adjbox@pwidth=\dimen161
+\adjbox@pheight=\dimen162
+\adjbox@pdepth=\dimen163
+\adjbox@ptotalheight=\dimen164
+
+(C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count274
+) (C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box54
+\sift@deathcycles=\count275
+\@vwid@loff=\dimen165
+\@vwid@roff=\dimen166
+))
 (C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count273
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box55
 ) (Grobgrobfassung.aux)
 \openout1 = `Grobgrobfassung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 (C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count274
-\scratchdimen=\dimen153
-\scratchbox=\box54
-\nofMPsegments=\count275
-\nofMParguments=\count276
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count277
-\MPscratchDim=\dimen154
-\MPnumerator=\count278
-\makeMPintoPDFobject=\count279
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count277
+\scratchdimen=\dimen167
+\scratchbox=\box56
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen168
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks33
 )
 (C:\Users\corie\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -214,47 +267,122 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Overfull \hbox (15.73865pt too wide) in paragraph at lines 26--27
-\OT1/cmr/m/n/10.95 wick-lungs-pro-zes-ses wich-tig, ei-ne funk-ti-onsf[]ahige S
-oft-wa-re zu ent-wi-ckeln/warten. 
+Overfull \hbox (1.56458pt too wide) in paragraph at lines 24--26
+\OT1/cmr/m/n/10.95 Iden-ti-fi-ka-ti-on g[]ultiger, neu-er po-ten-ti-ell n[]utzl
+icher und letzt-lich verst[]andlicher
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+<./images//entscheidungsbaum_diagramm.png, id=1, 436.63126pt x 121.95563pt>
+File: ./images//entscheidungsbaum_diagramm.png Graphic file (type png)
+<use ./images//entscheidungsbaum_diagramm.png>
+Package pdftex.def Info: ./images//entscheidungsbaum_diagramm.png  used on inpu
+t line 31.
+(pdftex.def)             Requested size: 436.63019pt x 121.9553pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--38
+
+ []
+
+
+Overfull \hbox (27.39435pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/10.95 Ein durch-aus be-lieb-tes Ver-fah-ren die-ser Me-tho-de bil-
+den sog. Ent-schei-dungsb[]aume.
  []
 
 [1
 
 {C:/Users/corie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (10.35617pt too wide) in paragraph at lines 38--39
+<./images//entscheidungsbaum.png, id=14, 385.94188pt x 303.1325pt>
+File: ./images//entscheidungsbaum.png Graphic file (type png)
+<use ./images//entscheidungsbaum.png>
+Package pdftex.def Info: ./images//entscheidungsbaum.png  used on input line 45
+.
+(pdftex.def)             Requested size: 115.78345pt x 90.94044pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images//overfitting.png, id=15, 424.58624pt x 338.76563pt>
+File: ./images//overfitting.png Graphic file (type png)
+<use ./images//overfitting.png>
+Package pdftex.def Info: ./images//overfitting.png  used on input line 53.
+(pdftex.def)             Requested size: 127.37685pt x 101.63046pt.
+[2 <./images//entscheidungsbaum_diagramm.png>] [3 <./images//entscheidungsbaum.
+png> <./images//overfitting.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Overfull \hbox (15.73865pt too wide) in paragraph at lines 66--68
+\OT1/cmr/m/n/10.95 wick-lungs-pro-zes-ses wich-tig, ei-ne funk-ti-onsf[]ahige S
+oft-wa-re zu ent-wi-ckeln/warten.
+ []
+
+[4]
+Overfull \hbox (10.35617pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10.95 ihm un-ter an-de-rem da-bei hel-fen, Feh-ler zu kor-ri-gie-r
 en, f[]ur die er m[]oglicherweise
  []
 
-[2]
-<./images//ablauf.png, id=14, 633.36626pt x 522.95375pt>
+[5]
+<./images//ablauf.png, id=34, 633.36626pt x 522.95375pt>
 File: ./images//ablauf.png Graphic file (type png)
 <use ./images//ablauf.png>
-Package pdftex.def Info: ./images//ablauf.png  used on input line 55.
-(pdftex.def)             Requested size: 316.68236pt x 261.47623pt.
+Package pdftex.def Info: ./images//ablauf.png  used on input line 92.
+(pdftex.def)             Requested size: 190.01134pt x 156.88733pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[][]\OT1/cmr/m/n/9 https://github.blog/2022-09-07-research-quantifying-github-c
+opilots-impact-on-
+ []
+
+<./images//copilot.png, id=35, 552.56438pt x 458.21187pt>
+File: ./images//copilot.png Graphic file (type png)
+<use ./images//copilot.png>
+Package pdftex.def Info: ./images//copilot.png  used on input line 104.
+(pdftex.def)             Requested size: 165.77058pt x 137.46461pt.
+[6 <./images//ablauf.png>]
 No file Grobgrobfassung.bbl.
-[3 <./images//ablauf.png>] (Grobgrobfassung.aux) ) 
+[7 <./images//copilot.png>] (Grobgrobfassung.aux) ) 
 Here is how much of TeX's memory you used:
- 3212 strings out of 476331
- 53313 string characters out of 5787765
- 1859660 words of memory out of 5000000
- 23632 multiletter control sequences out of 15000+600000
- 517857 words of font info for 51 fonts, out of 8000000 for 9000
+ 4399 strings out of 476331
+ 75405 string characters out of 5787765
+ 1860660 words of memory out of 5000000
+ 24777 multiletter control sequences out of 15000+600000
+ 520061 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,62p,830b,195s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\corie\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/corie/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/cori
-e/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/U
-sers/corie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
-fb><C:/Users/corie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr12.pfb><C:/Users/corie/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr17.pfb>
-Output written on Grobgrobfassung.pdf (3 pages, 111266 bytes).
+ 57i,10n,62p,830b,325s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\corie\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/corie/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/cor
+ie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
+Users/corie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb><C:/Users/corie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Users/corie/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Users/corie/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr17.pfb><C:/Users/corie/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/corie/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/corie/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on Grobgrobfassung.pdf (7 pages, 583749 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
