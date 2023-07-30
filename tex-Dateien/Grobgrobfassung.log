@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.30)  8 JUL 2023 17:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.30)  10 JUL 2023 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -288,12 +288,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--38
 
  []
 
-
-Overfull \hbox (27.39435pt too wide) in paragraph at lines 28--38
-\OT1/cmr/m/n/10.95 Ein durch-aus be-lieb-tes Ver-fah-ren die-ser Me-tho-de bil-
-den sog. Ent-schei-dungsb[]aume.
- []
-
 [1
 
 {C:/Users/corie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -328,19 +322,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
 
-
-Overfull \hbox (15.73865pt too wide) in paragraph at lines 66--68
-\OT1/cmr/m/n/10.95 wick-lungs-pro-zes-ses wich-tig, ei-ne funk-ti-onsf[]ahige S
-oft-wa-re zu ent-wi-ckeln/warten.
- []
-
-[4]
-Overfull \hbox (10.35617pt too wide) in paragraph at lines 77--78
-\OT1/cmr/m/n/10.95 ihm un-ter an-de-rem da-bei hel-fen, Feh-ler zu kor-ri-gie-r
-en, f[]ur die er m[]oglicherweise
- []
-
-[5]
+[4] [5]
 <./images//ablauf.png, id=34, 633.36626pt x 522.95375pt>
 File: ./images//ablauf.png Graphic file (type png)
 <use ./images//ablauf.png>
@@ -363,11 +345,11 @@ No file Grobgrobfassung.bbl.
 Here is how much of TeX's memory you used:
  4399 strings out of 476331
  75405 string characters out of 5787765
- 1860660 words of memory out of 5000000
+ 1859660 words of memory out of 5000000
  24777 multiletter control sequences out of 15000+600000
  520061 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,10n,62p,830b,325s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,62p,711b,325s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\corie\AppData\Loc
 al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/corie/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/cor
@@ -380,7 +362,7 @@ public/amsfonts/cm/cmr17.pfb><C:/Users/corie/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/corie/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/corie/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on Grobgrobfassung.pdf (7 pages, 583749 bytes).
+Output written on Grobgrobfassung.pdf (7 pages, 583533 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
